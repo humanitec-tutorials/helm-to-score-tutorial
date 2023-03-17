@@ -1,5 +1,5 @@
 # An Example Helm Chart
 
-This is an example helm chart used as part of a tutorial: [LINK HERE]
+This is an example workload-scoped helm chart to convert to Score. Please read README in [parent folder](../README.md)
 
-It is designed to be an example of a realistic workload deployment but not strongly opinionated on what is / isnt best practice.
+
