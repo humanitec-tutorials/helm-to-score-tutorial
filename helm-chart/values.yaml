@@ -1,0 +1,10 @@
+image:
+  repository: registry.humanitec.io/public/sample-score-app
+  tag: latest
+
+db:
+  name: my-db
+  username: user
+  password: password
+  host: 123.123.123.123
+  port: 3306

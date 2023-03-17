@@ -1,0 +1,6 @@
+apiVersion: v2
+name: hello-world-app
+description: A Helm chart instead of Score for https://github.com/williamoverton/score-simple-example/
+type: application
+version: 0.0.1
+appVersion: "0.0.1"
