@@ -2,7 +2,7 @@
 
 ## Repository
 
-This repository contains everything needed to run this tutorial. In addition it also contains the code for the hello world application for the workload. You do not need to build this to run the tutorial.
+This repository contains everything needed to run this tutorial. You can find the code for container service used in this tutorial [here](https://github.com/humanitec/sample-score-app). You do not need to build this to run the tutorial.
 
 ## **Introduction**
 
